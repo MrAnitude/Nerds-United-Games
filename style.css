@@ -1,7 +1,44 @@
 body{
-    background-color:black 
+    background-color:white 
 
 }
 h3 {
     background-color:(orange)
+}
+#games
+{
+  text-align: center;
+  background-color: aqua;
+  border-radius: 10px;
+  display: inline-block;
+  border: 5px dashed blue;
+
+}
+.contacts li a
+{
+  
+text-align: center;
+font-family:cursive;
+font-size:20px;
+
+}
+nav a
+{
+    width: 10%
+}
+nav ul
+{
+    width:50%
+}
+nav ul li
+{
+   text-align: left;
+   padding: 10px
+   font-size 10px;
+   display: inline-block;
+}
+
+nav ul li:hover
+{
+    color:red;
 }
